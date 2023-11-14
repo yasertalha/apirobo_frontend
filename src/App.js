@@ -37,6 +37,24 @@ function App() {
 
   return (
     <div>
+      <div
+        data-locale="en_US"
+        data-size="medium"
+        data-theme="light"
+        data-type="VERTICAL"
+        data-vanity="syed-yaser-mohasin-197132174"
+        data-version="v1"
+        className="developerBtn"
+      >
+        <a
+          className="badge-base__link LI-simple-link"
+          href="https://www.linkedin.com/in/syed-yaser-mohasin-react-developer-197132174/"
+          target={"_blank"}
+          style={{ color: "#795548" }}
+        >
+          About Developer
+        </a>
+      </div>
       <nav
         className="navbar navbar-light bg-light"
         style={{ paddingLeft: "10%" }}

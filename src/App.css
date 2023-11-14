@@ -6,3 +6,16 @@
   display: flex;
   align-items: center;
 }
+
+
+.developerBtn {
+  position: fixed;
+  transform: rotate(-315deg);
+  top: 80px;
+  right: -100px;
+  z-index: 9;
+  background-color: #ff980075;
+  /* color: #f44336; */
+  padding-right: 100px;
+  padding-left: 100px;
+}
